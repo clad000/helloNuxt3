@@ -8,6 +8,7 @@
 <!-- global 設定，限制原本可以 auto component 必須改用 import 方式-->
 <!-- setup script -->
 <!-- npx nuxi add composable composableName 共用邏輯 function-->
+<!-- npx nuxi add plugin pluginName 自己做一個 plugin -->
 <script setup></script>
 
 <template>
